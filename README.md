@@ -10,11 +10,12 @@
 
 ![image](https://github.com/tjunlp-lab/CRiskEval/blob/main/RiskTaxonomy.png)
 
-*Figure: The risk taxonomy of CRiskEval, which contains 7 risk types and 21 subtypes accompanied with 4 risk levels. The proportion of each risk type is also presented here. The examples of each risk subtype are provided in [Examples.md](https://github.com/tjunlp-lab/CRiskEval/blob/main/Examples.md)*
-
 ## Overview
 
 **CRiskEval** is a **Chinese** dataset meticulously designed for gauging the risk proclivities inherent in LLMs such as resource acquisition and malicious coordination, as part of efforts for proactive preparedness. To curate CRiskEval, we define a new risk taxonomy with **7 types of frontier risks** and **4 safety levels**, including extremely  hazardous,moderately hazardous, neutral and safe. We follow the philosophy of tendency evaluation to  empirically measure the stated ``desire'' of LLMs via fine-grained multiple-choice question answering. The dataset consists of 14,888 questions that simulate scenarios related to predefined 7 types of frontier risks. Each question is accompanied with 4 answer choices that state opinions or behavioral tendencies corresponding to the question. All answer choices are manually annotated with one of the defined risk levels so that we can easily build a fine-grained frontier risk profile for each assessed LLM.
+
+
+*Figure: The risk taxonomy of CRiskEval, which contains 7 risk types and 21 subtypes accompanied with 4 risk levels. The proportion of each risk type is also presented here. The examples of each risk subtype are provided in [Examples.md](https://github.com/tjunlp-lab/CRiskEval/blob/main/Examples.md)*
 
 
 ## Data Curation
