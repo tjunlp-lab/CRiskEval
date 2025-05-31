@@ -8,9 +8,9 @@
  <br>
 </div>
 
-![image](https://github.com/tjunlp-lab/CRiskEval/blob/main/Taxonomy.png)
+![image](https://github.com/tjunlp-lab/CRiskEval/blob/main/RiskTaxonomy.png)
 
-*Figure: The risk taxonomy of CRiskEval, which contains 7 risk types and 21 subtypes accompanied with 4 risk levels. The proportion of each risk type is also presented here. The examples of each risk subtype are provided in [Examples.md](https://github.com/tjunlp-lab/CRiskEval/blob/main/RiskTaxonomy.png)*
+*Figure: The risk taxonomy of CRiskEval, which contains 7 risk types and 21 subtypes accompanied with 4 risk levels. The proportion of each risk type is also presented here. The examples of each risk subtype are provided in [Examples.md](https://github.com/tjunlp-lab/CRiskEval/blob/main/Examples.md)*
 
 ## Overview
 
